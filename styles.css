@@ -1,0 +1,72 @@
+h1 {
+  text-align: center;
+  background-color: red;
+  color: white;
+  font: size 60 px;
+  font-family: "Times New Roman", Times, serif;
+  padding: 10 px;
+  border: solid black 1px;
+  margin: 0px;
+}
+#img1 {
+  height: 300px;
+  width: 300px;
+
+  border-radius: 150px;
+  display: block;
+  margin-left: ;
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+  display: block;
+}
+
+#intro {
+  font-size: 25px;
+  line-height: 38px;
+  text-align: justify;
+  font-family: "Times New Roman", Times, serif;
+}
+#img2 {
+  height: 300px;
+  width: 300px;
+  padding: 25px;
+}
+.container {
+  background: Linear-gradient(
+    rgb(37, 64, 37),
+    rgb(61, 173, 61),
+    rgb(10, 246, 10)
+  );
+  display: flex;
+  justify-content: right;
+  height: 500px;
+  padding: 15px;
+
+  /* justify content used for horizontal align */
+  /* align item used for vertical align ment */
+}
+.left {
+  display: flex;
+  justify-content: left;
+}
+.right {
+  display: flex;
+  justify-content: right;
+}
+#para {
+  color: azure;
+  font-size: 25px;
+  line-height: 38px;
+  text-align: justify;
+  font-family: "Times New Roman", Times, serif;
+}
+#bg-img {
+  height: 100px;
+  width: 1000px;
+  background-image: url(./HD-wallpaper-jurassic-park-logo-jurassic-park-logo-movies.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+}
